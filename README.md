@@ -1,3 +1,6 @@
+## Forked from T480S repo, working on X250
+So far everything working (incl. Touchscreen). Will check what is missing but need to familiarize with OpenCore first. if you have any remarks - feel free to send pull requests :)
+
 # ThinkPad T450s Big Sur OpenCore
 ![Thismachine](./picture/Thismachine.png)
 ## 简介
